@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite this repository and the associated thesis/manuscript where appropriate."
+title: "Probabilistic Structural Machine Learning"
+type: software
+authors:
+  - family-names: "Haeri"
+    given-names: "Seyyed Mohammad Mojtahed"
+repository-code: "https://github.com/SMmhaeri/probabilistic-structural-ml"
+version: "0.1.0"
+date-released: "2026-09-16"

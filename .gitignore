@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Secrets / local configuration
+.env
+.env.*
+
+# Source dataset is downloaded from the original public repository
+Data.xlsx
+
+# Generated outputs
+outputs/
+results/
+checkpoints/
+logs/
+model_results_*/
+saved_models/
+
+# Model artifacts
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.npz
+*.tabpfn_fit
+
+# OS
+.DS_Store
+Thumbs.db

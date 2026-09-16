@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+torch
+gpytorch
+tabpfn==8.1.0
+matplotlib
+seaborn
+openpyxl
+joblib
+ipython
